@@ -1,4 +1,5 @@
 -Để chạy được bot, hãy tải về các thư viện mở rộng:
+    
     pip install unidecode
     pip install tensorflow
     pip install numpy
